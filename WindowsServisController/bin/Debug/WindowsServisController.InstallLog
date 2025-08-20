@@ -1,0 +1,13 @@
+﻿'C:\Users\user\source\repos\WindowsServisController\WindowsServisController\bin\Debug\WindowsServisController.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\user\source\repos\WindowsServisController\WindowsServisController\bin\Debug\WindowsServisController.InstallLog
+   assemblypath = C:\Users\user\source\repos\WindowsServisController\WindowsServisController\bin\Debug\WindowsServisController.exe
+Service1 hizmeti yükleniyor...
+Service1 hizmeti başarıyla yüklendi.
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'C:\Users\user\source\repos\WindowsServisController\WindowsServisController\bin\Debug\WindowsServisController.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   logfile = C:\Users\user\source\repos\WindowsServisController\WindowsServisController\bin\Debug\WindowsServisController.InstallLog
+   assemblypath = C:\Users\user\source\repos\WindowsServisController\WindowsServisController\bin\Debug\WindowsServisController.exe

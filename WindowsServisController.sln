@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsServisController", "WindowsServisController\WindowsServisController.csproj", "{CC98EB78-C4E7-4BCD-9F61-F4FEF20625BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsControllerConseleApp", "WindowsControllerConseleApp\WindowsControllerConseleApp.csproj", "{6BA60B01-9330-4579-8A11-1F3649CC711E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC98EB78-C4E7-4BCD-9F61-F4FEF20625BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC98EB78-C4E7-4BCD-9F61-F4FEF20625BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC98EB78-C4E7-4BCD-9F61-F4FEF20625BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC98EB78-C4E7-4BCD-9F61-F4FEF20625BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BA60B01-9330-4579-8A11-1F3649CC711E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BA60B01-9330-4579-8A11-1F3649CC711E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BA60B01-9330-4579-8A11-1F3649CC711E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BA60B01-9330-4579-8A11-1F3649CC711E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED69B005-4A04-4252-A421-2EAAB068A93E}
+	EndGlobalSection
+EndGlobal

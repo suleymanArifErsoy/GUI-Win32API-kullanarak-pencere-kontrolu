@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\WindowsServisController\WindowsServisController\bin\Debug\WindowsServisController.exe.config
+C:\Users\user\source\repos\WindowsServisController\WindowsServisController\bin\Debug\WindowsServisController.exe
+C:\Users\user\source\repos\WindowsServisController\WindowsServisController\bin\Debug\WindowsServisController.pdb
+C:\Users\user\source\repos\WindowsServisController\WindowsServisController\obj\Debug\WindowsServisController.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\WindowsServisController\WindowsServisController\obj\Debug\WindowsServisController.ProjectInstaller.resources
+C:\Users\user\source\repos\WindowsServisController\WindowsServisController\obj\Debug\WindowsServisController.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WindowsServisController\WindowsServisController\obj\Debug\WindowsServisController.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WindowsServisController\WindowsServisController\obj\Debug\WindowsServisController.exe
+C:\Users\user\source\repos\WindowsServisController\WindowsServisController\obj\Debug\WindowsServisController.pdb

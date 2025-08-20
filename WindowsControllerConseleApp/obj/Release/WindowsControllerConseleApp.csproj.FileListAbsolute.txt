@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\WindowsServisController\WindowsControllerConseleApp\bin\Release\WindowsControllerConseleApp.exe.config
+C:\Users\user\source\repos\WindowsServisController\WindowsControllerConseleApp\bin\Release\WindowsControllerConseleApp.exe
+C:\Users\user\source\repos\WindowsServisController\WindowsControllerConseleApp\bin\Release\WindowsControllerConseleApp.pdb
+C:\Users\user\source\repos\WindowsServisController\WindowsControllerConseleApp\obj\Release\WindowsControllerConseleApp.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\WindowsServisController\WindowsControllerConseleApp\obj\Release\WindowsControllerConseleApp.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WindowsServisController\WindowsControllerConseleApp\obj\Release\WindowsControllerConseleApp.exe
+C:\Users\user\source\repos\WindowsServisController\WindowsControllerConseleApp\obj\Release\WindowsControllerConseleApp.pdb
